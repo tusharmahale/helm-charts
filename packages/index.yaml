@@ -8,7 +8,7 @@ entries:
       artifacthub.io/prerelease: "false"
     apiVersion: v2
     appVersion: 1.106.3
-    created: "2025-08-13T09:06:50.908993+05:30"
+    created: "2025-08-13T09:11:33.302947+05:30"
     description: Helm Chart for deploying n8n on Kubernetes, a fair-code workflow
       automation platform with native AI capabilities for technical teams. Easily
       automate tasks across different services.
@@ -37,4 +37,4 @@ entries:
     urls:
     - https://tusharmahale.github.io/helm-charts/packages/n8n-1.0.11.tgz
     version: 1.0.11
-generated: "2025-08-13T09:06:50.907824+05:30"
+generated: "2025-08-13T09:11:33.301545+05:30"
